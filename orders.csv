@@ -1,0 +1,8 @@
+Order_ID,Customer_ID,Product,Quantity,Price,Status,Date
+O001,C001,Mouse,3,1500.0,Deliverd,25-09-2026
+O002,C002,Headphones,1,2000.0,Processing,26-09-2026
+O003,C001,Keyboard,1,2500.0,Shipped,26-09-2026
+O004,C003,Printer,1,25000.0,Processing,29-09-2026
+O005,C002,Laptop Bag,2,1600.0,Shipped,01-10-2026
+O006,C001,Charger,2,500.0,Shipped,04-10-2026
+O007,C005,Laptop Bag,1,800.0,Cancelled,29-09-2026
